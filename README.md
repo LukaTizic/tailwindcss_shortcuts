@@ -1,4 +1,4 @@
-My [Github](https://github.com/LukaTizic) & [Linkedin](https://www.linkedin.com/in/luka-tizi%C4%87-529a1b240/) profiles. Live [Site]().
+My [Github](https://github.com/LukaTizic) & [Linkedin](https://www.linkedin.com/in/luka-tizi%C4%87-529a1b240/) profiles. Live [Site](https://tailwind-tailwindcss-shortcuts.vercel.app/).
 
 ## Getting Started
 
